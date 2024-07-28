@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("This is the first website :sparkling_heart:")
 
-st.write("hello")
+st.write("hello dan")
 
 text = st.text_input("Nhap ten cua ban: ")
 buton = st.button("Print")
